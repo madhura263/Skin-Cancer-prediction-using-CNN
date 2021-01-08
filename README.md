@@ -9,3 +9,6 @@ Two types of skin cancer are -
 2. Malignant
 
 In this project, 2 different classes of skin cancer are detected and classified using Convolution Neural Network with Keras TensorFlow in backend and the result is analysed to see how the model can be useful in practical scenario.
+
+Detailed explanation of the code and be found at -
+https://youtu.be/jwbmGtymkoQ
